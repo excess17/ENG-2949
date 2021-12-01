@@ -1,0 +1,12 @@
+code: page3-with-company
+description: page3-with-content-assets
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  pages:
+    - pages/page3-descriptor.yaml
+  assets:
+    - assets/17/17-descriptor.yaml
+    - assets/18/18-descriptor.yaml
+  contents:
+    - contents/bnr20-descriptor.yaml

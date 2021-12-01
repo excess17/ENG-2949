@@ -1,0 +1,21 @@
+code: page3
+parentCode: homepage
+titles:
+  en: page3
+  it: page3
+pageModel: single_frame_page
+ownerGroup: administrators
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: content_viewer
+    config:
+      ownerGroup: administrators
+      joinGroups: '[]'
+      contentDescription: banner1
+      contentId: BNR20
+      modelId: '10003'
+    pos: 0

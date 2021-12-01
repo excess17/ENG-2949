@@ -1,0 +1,84 @@
+id: BNR20
+typeCode: BNR
+description: banner1
+mainGroup: administrators
+status: PUBLIC
+listModel: '10023'
+defaultModel: '10003'
+attributes:
+  - code: title
+    value: null
+    values:
+      en: banner1
+      it: banner1
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: abstract
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      symbolicDestination: '#!!#'
+      urlDest: null
+      pageDest: null
+      contentDest: null
+      destType: 0
+      resourceDest: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image
+    value: null
+    values:
+      en:
+        correlationCode: '18'
+        name: Kazam_screenshot_00072.png
+        metadata:
+          Filter Method: Adaptive
+          File Modified Date: 'Wed Dec 01 16:03:12 +00:00 2021'
+          Detected File Type Long Name: Portable Network Graphics
+          Compression Type: Deflate
+          Expected File Name Extension: png
+          Detected MIME Type: image/png
+          Significant Bits: 8 8 8
+          Image Height: '1121'
+          Image Width: '1920'
+          File Size: 300787 bytes
+          Detected File Type Name: PNG
+          Interlace Method: No Interlace
+          File Name: Kazam_screenshot_00072_d0.png
+          Color Type: True Color
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '18'
+        name: Kazam_screenshot_00072.png
+        metadata:
+          Filter Method: Adaptive
+          File Modified Date: 'Wed Dec 01 16:03:12 +00:00 2021'
+          Detected File Type Long Name: Portable Network Graphics
+          Compression Type: Deflate
+          Expected File Name Extension: png
+          Detected MIME Type: image/png
+          Significant Bits: 8 8 8
+          Image Height: '1121'
+          Image Width: '1920'
+          File Size: 300787 bytes
+          Detected File Type Name: PNG
+          Interlace Method: No Interlace
+          File Name: Kazam_screenshot_00072_d0.png
+          Color Type: True Color
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: placement
+    value: ''
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
